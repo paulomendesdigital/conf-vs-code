@@ -3,7 +3,7 @@
 ## Font
 - Donwload [FiraCode](https://github.com/tonsky/FiraCode)
 - Install the fonts
-  - Create a directory with name `fonts` at `~/.loca/share`
+  - Create a directory with name `fonts` at `~/.local/share`
   - Past the fonts at this directory
   - Run the command `fc-cache -f -v` in the terminal
   - To see if the font was installed run the command `fc-list | grep "Fira"`
